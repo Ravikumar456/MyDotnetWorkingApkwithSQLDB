@@ -1,0 +1,12 @@
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\bin\Debug\net8.0\MyApp.DAL.deps.json
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\bin\Debug\net8.0\MyApp.DAL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\bin\Debug\net8.0\MyApp.DAL.pdb
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.AssemblyInfo.cs
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\refint\MyApp.DAL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\MyApp.DAL.pdb
+C:\Users\ravik\source\repos\MyApp\MyApp.DAL\obj\Debug\net8.0\ref\MyApp.DAL.dll

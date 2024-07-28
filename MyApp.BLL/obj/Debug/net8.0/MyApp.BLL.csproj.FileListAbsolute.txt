@@ -1,0 +1,15 @@
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\bin\Debug\net8.0\MyApp.BLL.deps.json
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\bin\Debug\net8.0\MyApp.BLL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\bin\Debug\net8.0\MyApp.BLL.pdb
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\bin\Debug\net8.0\MyApp.DAL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\bin\Debug\net8.0\MyApp.DAL.pdb
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.AssemblyInfo.cs
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.csproj.Up2Date
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\refint\MyApp.BLL.dll
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\MyApp.BLL.pdb
+C:\Users\ravik\source\repos\MyApp\MyApp.BLL\obj\Debug\net8.0\ref\MyApp.BLL.dll

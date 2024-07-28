@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravik\\source\\repos\\myapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98818D4-3C58-4B9E-9166-4E50A22FB9E6}|MyApp.UI\\MyApp.UI.csproj|c:\\users\\ravik\\source\\repos\\myapp\\myapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98818D4-3C58-4B9E-9166-4E50A22FB9E6}|MyApp.UI\\MyApp.UI.csproj|solutionrelative:myapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CCD5AE-BDE4-4F95-B76A-71E821E5B539}|MyApp.BLL\\MyApp.BLL.csproj|c:\\users\\ravik\\source\\repos\\myapp\\myapp.bll\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CCD5AE-BDE4-4F95-B76A-71E821E5B539}|MyApp.BLL\\MyApp.BLL.csproj|solutionrelative:myapp.bll\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravik\\source\\repos\\myapp\\MyApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ravik\\source\\repos\\myapp\\MyApp.UI\\Program.cs",
+              "RelativeToolTip": "MyApp.UI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:52:50.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ravik\\source\\repos\\myapp\\MyApp.BLL\\IItemService.cs",
+              "RelativeDocumentMoniker": "MyApp.BLL\\IItemService.cs",
+              "ToolTip": "C:\\Users\\ravik\\source\\repos\\myapp\\MyApp.BLL\\IItemService.cs",
+              "RelativeToolTip": "MyApp.BLL\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:45:32.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
